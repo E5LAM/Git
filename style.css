@@ -1,0 +1,9 @@
+body{
+    background-color: rgb(233, 233, 233);
+}
+h1{
+    text-align: center;
+    text-transform: capitalize;
+    color: aqua;
+    font-family: sans-serif;
+}
